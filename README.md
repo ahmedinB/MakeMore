@@ -1,7 +1,7 @@
-# MakeMore
+## MakeMore
 Andrej Karpathy: Make More Series
 
 
-## TinyGPT 
+### TinyGPT 
 NLP model made on TinyShakespeare text 
 ... Progressively made using Bigram, Transformers
